@@ -1,4 +1,5 @@
-# Create App
+# MintBOS Start Template
+
 
 Starter Kit for Builders
 
